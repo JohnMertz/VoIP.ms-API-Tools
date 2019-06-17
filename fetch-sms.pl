@@ -6,7 +6,6 @@ use VoIPms;
 use VoIPms::Errors;
 use File::Which 'which';
 use JSON::XS;
-use Data::Dump;
 use Email::Valid 'address';
 
 my $settings;
