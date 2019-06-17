@@ -1,0 +1,8 @@
+{
+"username":"user@domain.com",
+"password":"your_api_password",
+"did":"1234567890",
+"lockfile":"/home/user/.config/VoIPms/latest",
+"inbound":"/bin/echo",
+"outbound":"/bin/echo"
+}
